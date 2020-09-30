@@ -8,13 +8,13 @@
 
 
 ### How to reach me:
-<a href="https://www.youtube.com/channel/UC-5vVmFincFWF1spClzEq5g"><img align="left" alt="python" width="26px" src="/you.png" />
-<img align="left" alt="python" width="26px" src="/fb.png" />
-<img align="left" alt="python" width="26px" src="/ig.png" />
+<a href="https://www.youtube.com/channel/UC-5vVmFincFWF1spClzEq5g"><img align="left" alt="youtube" width="26px" src="/you.png" />
+<a href="https://www.facebook.com/kunho.lim.3"><img align="left" alt="facebook" width="26px" src="/fb.png" />
+<a href="https://www.instagram.com/limiteddays/"><img align="left" alt="instagram" width="26px" src="/ig.png" />
 
-<img align="left" alt="python" width="26px" src="/sc.png" />
-<img align="left" alt="python" width="26px" src="/sp.png" />
-<img align="left" alt="python" width="26px" src="/tw.png" />
+<a href="https://soundcloud.com/limiteddays"><img align="left" alt="sc" width="26px" src="/sc.png" />
+<a href="https://open.spotify.com/artist/1ADqLqgxOzWgzhgOrtVX86"><img align="left" alt="spotify" width="26px" src="/sp.png" />
+<a href="https://twitter.com/limitedfactorg"><img align="left" alt="twitter" width="26px" src="/tw.png" />
 
 
 
