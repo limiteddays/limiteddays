@@ -1,6 +1,6 @@
 ### Kun Ho Lim (Kun) - [Musician/Software Engineer/Data Scientist] 👍
 
-## Data scientist who Compose, and Develope anime games! 
+## Data scientist who Compose, and Develope anime games!
 
 - 🔭 I’m currently working on Game called "Hana's Campus Life!"
 - 🌱 I’m currently learning "Computational Data Science and Music composing In The University of Sydney"
@@ -8,7 +8,7 @@
 
 
 ### How to reach me:
-<img align="left" alt="python" width="26px" src="/" />
+<img align="left" alt="python" width="26px" src="/you.png" />
 
 
 
@@ -39,6 +39,3 @@ Twitter: https://twitter.com/limitedfactorg
 ---
 
 <img align="left" alt="Kun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=limited-1&show_icons=true&hide_border=true" />
-
-
-
