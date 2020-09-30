@@ -8,22 +8,13 @@
 
 
 ### How to reach me:
+<img align="left" alt="python" width="26px" src="/" />
 
-<pre>
-<code>
-[email, khlim2012@gmail.com]
-[work email, limitedfactorg@gmail.com]
-[phone (AUS), +61432157877]
-</code>
-</pre>
 
 
 <br />
 
 ### Languages and Tools:
-
-
-
 <img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
 
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
@@ -41,7 +32,6 @@
 ---
 
 ### Latest Project
-
 Crowdfunding website: https://tumblbug.com/7af9be06-25a9-4532-a743-aa7969f62063
 Community: https://cafe.naver.com/limitedfactory
 Twitter: https://twitter.com/limitedfactorg
