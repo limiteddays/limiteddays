@@ -8,7 +8,7 @@
 
 
 ### How to reach me:
-<img align="left" alt="python" width="26px" src="/you.png" />
+[![Alt text](/you.png)](https://www.youtube.com/channel/UC-5vVmFincFWF1spClzEq5g)
 <img align="left" alt="python" width="26px" src="/fb.png" />
 <img align="left" alt="python" width="26px" src="/ig.png" />
 
