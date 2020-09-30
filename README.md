@@ -9,6 +9,13 @@
 
 ### How to reach me:
 <img align="left" alt="python" width="26px" src="/you.png" />
+<img align="left" alt="python" width="26px" src="/fb.png" />
+<img align="left" alt="python" width="26px" src="/ig.png" />
+
+<img align="left" alt="python" width="26px" src="/sc.png" />
+<img align="left" alt="python" width="26px" src="/sp.png" />
+<img align="left" alt="python" width="26px" src="/tw.png" />
+
 
 
 
