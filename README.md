@@ -1,11 +1,13 @@
 ### Kun Ho Lim (Kun) - [Musician/Software Engineer/Data Scientist] 👍
+<img align="left" alt="funny gif" width="26px" src="/giphy.gif" />
+
 
 ## Data scientist who Compose, and Develope anime games!
 
 - ✨✨✨ I’m currently working on Game called "Hana's Campus Life!" and "Elione's Magical Bistro"
 - 👌 I’m currently learning "Computational Data Science and Music composing In The University of Sydney"
 - ✌ I’m looking to collaborate on Developing games and interesting datascience project!
-- 한국어도 가능하답니다! 👏
+- 👏 한국어도 가능하답니다!
 
 
 ### How to reach me:
@@ -28,6 +30,3 @@
 - Twitter: https://twitter.com/limitedfactorg
 
 ---
-
-### Hana's Campus Life! (하나님의 캠퍼스 라이프!)
-
