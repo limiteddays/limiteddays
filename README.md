@@ -2,6 +2,7 @@
 <img align="left" alt="funny gif" width="500px" src="/giphy.gif" />
 
 
+<br />
 ## Data scientist who Compose, and Develope anime games!
 
 - ✨✨✨ I’m currently working on Game called "Hana's Campus Life!" and "Elione's Magical Bistro"
