@@ -4,6 +4,8 @@
 
 <br />
 
+---
+
 ## Data scientist who Compose, and Develop anime games!
 
 - ✨✨✨ I’m currently working on Game called "Hana's Campus Life!" and "Elione's Magical Bistro"
