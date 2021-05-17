@@ -7,7 +7,7 @@
 - ✨✨✨ I’m currently working on Game called "Hana's Campus Life!" and "Elione's Magical Bistro"
 - 👌 I’m currently learning "Computational Data Science and Music composing In The University of Sydney"
 - ✌ I’m looking to collaborate on Developing games and interesting datascience project!
-- 👏 한국어도 가능하답니다!
+- 👏 한국어도 가능하답니다! (Proud to be an Korean)
 
 
 ### How to reach me:
