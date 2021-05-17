@@ -1,6 +1,6 @@
 ### Kun Ho Lim (Kun) - [Musician/Software Engineer/Data Scientist] 👍
 
-![image](https://media.giphy.com/media/3o7btRkeE7RtAq8DnO/giphy.gif)
+![image](https://media.giphy.com/media/szV7zOCrwuVZC/giphy.gif)
 
 
 ---
