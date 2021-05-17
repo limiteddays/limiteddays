@@ -1,13 +1,8 @@
 ### Kun Ho Lim (Kun) - [Musician/Software Engineer/Data Scientist] 👍
-<img align="left" alt="funny gif" width="500px" src="/giphy.gif" />
 
+![image](https://media.giphy.com/media/fb4haewhv8ttpwpfMw/giphy.gif)
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limiteddays&show_icons=true&theme=radical)
 
 ---
 
