@@ -2,7 +2,6 @@
 
 ![image](https://giphy.com/gifs/crunchyroll-simulcast-3o7btRkeE7RtAq8DnO)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limiteddays&show_icons=true&theme=radical)
 
 ---
 
