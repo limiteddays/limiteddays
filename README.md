@@ -9,6 +9,7 @@
 - ✌ I’m looking to collaborate on Developing games and interesting datascience project!
 - 👏 한국어도 가능하답니다! (Proud to be a Korean)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limiteddays&theme=tokyonight)
 
 ### How to reach me:
 <a href="https://www.youtube.com/channel/UC-5vVmFincFWF1spClzEq5g"><img align="left" alt="youtube" width="26px" src="/you.png" />
