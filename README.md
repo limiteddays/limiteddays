@@ -27,6 +27,6 @@
 - Crowdfunding website: https://tumblbug.com/7af9be06-25a9-4532-a743-aa7969f62063
 - Community: https://cafe.naver.com/limitedfactory
 - Twitter: https://twitter.com/limitedfactorg
-- Blog (Korean): https://blog.naver.com/logica-1
+- Website:https://limiteddays.github.io/
 
 ---
