@@ -1,7 +1,7 @@
 ### Kun Ho Lim (Kun) - [Musician/Software Engineer/Data Scientist] 👍
 ## Data scientist who Compose, and Develop anime games!
 
-![image](https://media.giphy.com/media/zzfe6J5IwItjvjbl0k/giphy.gif)
+![image](https://giphy.com/clips/playoverwatch-9zRSJUfWxfrlzZ6sa5)
 
 ---
 - ✨✨✨ I’m currently working on Game called "Hana's Campus Life!" and "Elione's Magical Bistro"
