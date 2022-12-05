@@ -1,5 +1,5 @@
 ### Kun Ho Lim (Kun) - [Musician/Software Engineer/Data Scientist] 👍
-## Data scientist who Compose, and Develop anime games!
+## Data Scientist with some 'Extra' Talents
 
 ![image](/overwatch.gif)
 
