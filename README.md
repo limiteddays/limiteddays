@@ -5,7 +5,7 @@
 
 ---
 - ✨✨✨ I’m currently working on Game called "Hana's Campus Life!"
-- 👌 I’m currently learning "Computational Data Science and Music composing In The University of Sydney"
+- 👌 I Graduated "Computational Data Science and Music composing In The University of Sydney"
 - ✌ I’m looking to collaborate on Developing games and interesting datascience project!
 - 👏 한국어도 가능하답니다! (Proud to be a Korean)
 
