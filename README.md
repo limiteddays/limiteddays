@@ -4,8 +4,9 @@
 ![image](/overwatch.gif)
 
 ---
-- ✨✨✨ I’m currently working on Game called "Hana's Campus Life!"
-- 👌 I Graduated "Computational Data Science and Music composing In The University of Sydney"
+- 👍 Currently working in a professional environment helping Clients with their project!
+- ❤️ Also working on a game projects with my mates ;) 
+- 👌 I Graduated with "Computational Data Science and Music composing" at The University of Sydney 🇦🇺
 - ✌ I’m looking to collaborate on Developing games and interesting datascience project!
 - 👏 한국어도 가능하답니다!
 
