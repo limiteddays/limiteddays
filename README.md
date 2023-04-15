@@ -1,5 +1,5 @@
-### Kun Ho Lim (Kun) - [Musician/Software Engineer/Data Scientist] 👍
-## Data Scientist with some 'Extra' Talents
+### Kun Ho Lim (Kun)
+## Software Engineer with some 'Extra' Talents
 
 ![image](/overwatch.gif)
 
@@ -7,7 +7,7 @@
 - ✨✨✨ I’m currently working on Game called "Hana's Campus Life!"
 - 👌 I Graduated "Computational Data Science and Music composing In The University of Sydney"
 - ✌ I’m looking to collaborate on Developing games and interesting datascience project!
-- 👏 한국어도 가능하답니다! (Proud to be a Korean)
+- 👏 한국어도 가능하답니다!
 
 ### How to reach me:
 <a href="https://www.youtube.com/channel/UC-5vVmFincFWF1spClzEq5g"><img align="left" alt="youtube" width="26px" src="/you.png" />
