@@ -1,7 +1,7 @@
 ### Kun Ho Lim (Kun)
 ## Software Engineer with some 'Extra' Talents
 
-![image](/overwatch.gif)
+
 
 ---
 - 👍 Currently working in a professional environment helping Clients with their project!
